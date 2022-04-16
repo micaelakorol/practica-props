@@ -1,3 +1,3 @@
 # practica-props
-Práctica props (React JS)
+Prácticando props (React JS) , del curso de FreeCodeCamp .
 
