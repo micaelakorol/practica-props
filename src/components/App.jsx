@@ -2,7 +2,6 @@ import React from 'react'
 import Testimonio from './Testimonio'
 import '../stylos/app.css'
 
-//App es el componente padre que renderizará a todos los demas: (aquí abajo)
 const App = () => {
   return (
     <>
@@ -18,7 +17,7 @@ const App = () => {
  testimonio='Da miedo cambiar de carrera. Solo gané la confianza de que podía programar trabajando a través de los cientos de horas de lecciones gratuitas en freeCodeCamp. Dentro de un año tuve un trabajo de seis cifras como ingeniero de software. freeCodeCamp cambió mi vida.'/>
 
 <Testimonio 
-//podemos crear tantos testimonios queramos:
+
 nombre='Sarah Chima'
 pais='Nigeria'
 imagen='sarah'
