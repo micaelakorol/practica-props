@@ -28,8 +28,7 @@ testimonio='freeCodeCamp fue la puerta de entrada a mi carrera como desarrollado
 <Testimonio
 nombre='Emma Bostian'
 pais='Suecia'
-imagen='emma' //ni hace falta poner la url , ya que en la etiqueta img especificamos la ruta donde estan
-//y como estan escritas de forma similar solo se reemplaza el nombre.
+imagen='emma' 
 cargo='Ingeniera de Software'
 empresa='Spotify'
 testimonio='Siempre he tenido problemas para aprender JavaScript. He tomado muchos cursos, pero el curso de freeCodeCamp fue el que se quedó. Estudiar JavaScript, así como estructuras de datos y algoritmos en freeCodeCamp me dio las habilidades y la confianza que necesitaba para conseguir el trabajo de mis sueños como ingeniero de software en Spotify.' />
