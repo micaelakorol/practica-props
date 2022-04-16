@@ -2,8 +2,6 @@ import React from 'react'
 import '../stylos/testimonio.css'
 const Testimonio = (props) => {
 
-  //1- creamos un componente dinamico con props: *2- Asignamos los props donde queremos usarlos:
-  //3-el componente que lo renderiza (a testimonio) debe crear las props (App)
   return (
     <>
 <div className='contenedor-testimonio'>
