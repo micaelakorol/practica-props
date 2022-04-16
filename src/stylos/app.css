@@ -1,0 +1,41 @@
+/*Aqui asignamos estilos en general que se aplican a toda nuestra app (ya que pertenece al componente
+padre APP.JSX)*/
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+html,body{
+  font-size: 18px;
+  background-color: #f5f6f7;
+}
+
+h2{
+  max-width: 940px; /*ocupa 940px de ancho maximo*/
+  font-size: 2em; /*quiere decir que si se tiene un titulo de 940px su letra sera 2.5 veces ese valor*/
+  font-family: sans-serif,'Lucida Sans';
+  font-weight: bold;
+  line-height: 1.1;
+  margin: 40px;
+text-align: center;
+
+}
+.App{
+  min-height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.contenedor-principal{
+  min-height: 600px; /*para que los elementos se adapten a la altura del contenedor*/
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:center;
+  align-items: center;
+  text-align: center;
+}
+
